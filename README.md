@@ -1,5 +1,5 @@
 # asciilines
-
+## Assignment 1 - CS461P
 Copyright © 2019 Eliot Kent Woodrich
 
 ## Functionality
