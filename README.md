@@ -1,13 +1,23 @@
 # asciilines
+## Assignment 1 - CS461P
+Copyright © 2019 Eliot Kent Woodrich
 
-## Project name
+## Functionality
+Accepts a tvg file as a command line argument and renders it, outputing the rendered canvas to stdout.
 
-## Copyright notice
+## How to run
+python3 asciilines.py input.tvg
 
-## Explanation of what the program is and does
+### Example tvg file
+``` 
+3 4
+* 1 -1 h 5
+# -1 1 v 5 
+```
 
-## Explanation of how to build and run the program
-
-## Information about bugs, defects, failing tests, etc
+## Bugs/errata
+Passes tests 1-5.
 
 ## License information
+Learn more about the MIT license at:
+https://opensource.org/licenses/MIT
